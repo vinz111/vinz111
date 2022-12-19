@@ -1,7 +1,6 @@
 # Hi Guys!!!
 
 Hello everyone, my name is **Vincent Z**.\
-Currently, I am still studying at one of the universities in Batam.
 I am very interested in programming. 
 
 If you are interested in me, you can follow my [LinkedIn](https://www.linkedin.com/in/vincent-z-9a064820a/).

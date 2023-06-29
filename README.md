@@ -1,9 +1,8 @@
 # Hi Guys!!!
 
-Hello everyone, my name is **Vincent Z**.\
-I am very interested in programming. 
+Hello Everyone, my name is **Vincent Z**.\
 
-If you are interested in me, you can follow my [LinkedIn](https://www.linkedin.com/in/vincent-z-9a064820a/).
+You can follow my [LinkedIn](www.linkedin.com/in/vincentz111).
 
 <p align="left">
 <a href="https://github.com/vinz111">

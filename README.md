@@ -1,8 +1,8 @@
 # Hi Guys!!!
 
-Hello Everyone, my name is **Vincent Z**.\
+Hello Everyone, my name is **Vincent Z**.
 
-You can follow my [LinkedIn](www.linkedin.com/in/vincentz111).
+You can follow my [LinkedIn](https://www.linkedin.com/in/vincentz111/).
 
 <p align="left">
 <a href="https://github.com/vinz111">
